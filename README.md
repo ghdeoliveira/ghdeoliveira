@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div display="inline">
+  <img widht='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img widht='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
+  <img widht='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+</div>
